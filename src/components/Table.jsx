@@ -17,6 +17,7 @@ import {
 
 export default function Table({ columns, data }) {
   // const [sorting, setSorting] = React.useState<SortingState>([])
+  //new com
 
   const defaultColumn = useMemo(
     () => ({
