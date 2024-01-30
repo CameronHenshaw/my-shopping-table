@@ -4,7 +4,7 @@ import { SelectFilter } from './components/SelectFilter/SelectFilter';
 
 // import regeneratorRuntime from "regenerator-runtime";
 
-import './App.css';
+import './app.css';
 
 function App() {
   const [status, setStatus] = useState('idle');
